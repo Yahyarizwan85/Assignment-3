@@ -1,12 +1,12 @@
-📧 Motivational Quotes Email Sender 📧
+# 📧 Motivational Quotes Email Sender 📧
 
-Description 📝
+# Description 📝
 
 
 This Python script sends motivational quotes to email addresses every Monday. It reads quotes from a text file and email addresses from another file, and then sends a randomly selected quote to each email address using Gmail's SMTP server.
 
 
-Features ✨
+# Features ✨
 
 
 Read Quotes: Reads motivational quotes from a file (quotes.txt).
@@ -18,7 +18,7 @@ Send Emails: Sends motivational quotes to the email addresses every Monday.
 Random Quote Selection: Selects a random quote to send to each recipient.
 
 
-How It Works 🛠️
+# How It Works 🛠️
 
 
 Reads Quotes: The script reads quotes from quotes.txt, where each line contains one quote.
@@ -30,7 +30,7 @@ Check Day: The script checks if today is Monday.
 Send Emails: If it's Monday, the script selects a random quote and sends it to each email address using Gmail's SMTP server.
 
 
-Prerequisites 📋
+# Prerequisites 📋
 
 
 Python 3.x
